@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543680882853.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3516408567",
+    "id" : "9D39F4F5",
+    "lastKnownWriteTime" : 1543701495,
+    "last_content_update" : 1543701495904,
+    "path" : "~/Box Sync/MScA/Courses/Time Series Analysis and Forecasting/Project/ts_project/project_yearly.R",
+    "project_path" : "project_yearly.R",
+    "properties" : {
+        "cursorPosition" : "5,181",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543806628770.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1689338259",
+    "id" : "83F38FCC",
+    "lastKnownWriteTime" : 1543887589,
+    "last_content_update" : 1543887589770,
+    "path" : "~/Box Sync/MScA/Courses/Time Series Analysis and Forecasting/Project/ts_project/project_hourly_per_route.R",
+    "project_path" : "project_hourly_per_route.R",
+    "properties" : {
+        "cursorPosition" : "50,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
